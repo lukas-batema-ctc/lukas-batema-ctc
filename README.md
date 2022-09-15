@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukas-batema-student&show_icons=true&theme=dark&locale=en" alt="lukas-batema-student" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema&theme=dark" alt="lukas-batema" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema-student&theme=dark" alt="lukas-batema-student" /></p>
 
 [![Spotify](https://novatorem-lukas-batema.vercel.app/api/spotify)](https://open.spotify.com/user/013s9s9c4z1it8k5v8t3fzcse)
 
